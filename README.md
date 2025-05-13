@@ -6,7 +6,7 @@ A responsive landing page project built as part of my web development learning j
 ## 🚀 Live Demo
 
 Check out the live website here:  
-👉 
+👉 https://shouryashinde.github.io/TinDog/
 
 ## 💡 Features
 
