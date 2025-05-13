@@ -2,7 +2,6 @@
 
 A responsive landing page project built as part of my web development learning journey. TinDog is a fictional startup concept that brings dog lovers and their pets together — because why should humans have all the fun?
 
-![TinDog Preview](./preview.png)
 
 ## 🚀 Live Demo
 
