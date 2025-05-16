@@ -24,5 +24,15 @@ Check out the live website here:
 - Bootstrap 5
 
 ## 📁 Folder Structure
+/tindog/
+│
+├── index.html
+├── css/
+│ └── styles.css
+└── images/
+## 📌 Notes
+
+This project was created for educational purposes while following [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu.
+
 
 
